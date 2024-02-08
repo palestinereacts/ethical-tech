@@ -1,4 +1,4 @@
-# 🌟 Ethical vs. Non-Ethical Companies 🌟
+# 🌟 Ethical vs. Non-Ethical Tech 🌟
 
 - [Criteria for Classification](#-criteria-for-classification)
 - [Non-Ethical Companies](#-non-ethical-tech)
