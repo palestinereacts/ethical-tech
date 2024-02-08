@@ -18,7 +18,7 @@ We classify companies as "ethical" or "non-ethical" based on a variety of factor
 
 This section highlights companies that are non-ethical
 
-- [Facebook](non-ethical/Facebook.md)
+- [Meta](non-ethical/Meta.md)
 - [Intel](non-ethical/Intel.md)
 - [Deloitte](non-ethical/Deloitte.md)
 - [Nvidia](non-ethical/Nvidia.md)
@@ -31,6 +31,7 @@ _For more non-ethical companies, visit the [non-ethical folder](non-ethical/)._
 
 Here we celebrate companies that have made significant efforts to operate responsibly and ethically.
 
+- [Replit](ethical/Replit/README.md)
 - [Smartly.io](ethical/smartly.io/README.md)
 - [HubSpot](ethical/HubSpot/README.md)
 
