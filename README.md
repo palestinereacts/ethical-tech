@@ -17,7 +17,7 @@ We classify companies as "ethical" or "non-ethical" based on a variety of factor
 
 ## ❌ Non-Ethical Companies
 
-This section highlights companies that have room for improvement in their ethical practices.
+This section highlights companies that are non-ethical
 
 - [Facebook](non-ethical/Facebook.md)
 - [Intel](non-ethical/Intel.md)
