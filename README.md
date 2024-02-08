@@ -1,8 +1,8 @@
 # 🌟 Ethical vs. Non-Ethical Companies 🌟
 
 - [Criteria for Classification](#-criteria-for-classification)
-- [Non-Ethical Companies](#-non-ethical-companies)
-- [Ethical Companies](#-ethical-companies)
+- [Non-Ethical Companies](#-non-ethical-tech)
+- [Ethical Companies](#-ethical-tech)
 - [Contribute](#-contribute)
 - [Disclaimer](#-disclaimer)
 
@@ -14,7 +14,7 @@ We classify companies as "ethical" or "non-ethical" based on a variety of factor
 - Pushing Pro-Palestine employees to resign
 - Stopping initiatives for sharing donation links to reputable organizations to support Gaza's citizens
 
-## ❌ Non-Ethical Companies
+## ❌ Non-Ethical Tech
 
 This section highlights companies that are non-ethical
 
@@ -27,7 +27,7 @@ This section highlights companies that are non-ethical
   
 _For more non-ethical companies, visit the [non-ethical folder](non-ethical/)._
 
-## ✅ Ethical Companies
+## ✅ Ethical Tech
 
 Here we celebrate companies that have made significant efforts to operate responsibly and ethically.
 
