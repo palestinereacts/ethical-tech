@@ -1,8 +1,8 @@
 # 🌟 Ethical vs. Non-Ethical Companies 🌟
 
 - [Criteria for Classification](#-criteria-for-classification)
-- [Ethical Companies](#-ethical-companies)
 - [Non-Ethical Companies](#-non-ethical-companies)
+- [Ethical Companies](#-ethical-companies)
 - [Contribute](#-contribute)
 - [Disclaimer](#-disclaimer)
 
