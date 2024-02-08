@@ -1,6 +1,6 @@
 # Reasons for being non-ethical
 
-- [Mark's Post] (https://www.facebook.com/zuck/posts/pfbid0AopFNufuETFnr2GS264PUvWrHg6vtJ7AB26h57T5Vy96BXMsQgV3ZectHGEnCBJml)
+- [Mark's Post](https://www.facebook.com/zuck/posts/pfbid0AopFNufuETFnr2GS264PUvWrHg6vtJ7AB26h57T5Vy96BXMsQgV3ZectHGEnCBJml)
 
 ![Capture](https://github.com/palestinereacts/ethical-tech/assets/158087203/a7209ef4-b2ba-4c91-a06c-627ed27c7dc1)
 
