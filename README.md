@@ -25,6 +25,7 @@ This section highlights companies that are non-ethical
 - [Dell](non-ethical/Dell.md)
 - [Wix](non-ethical/Wix.md)
 - [Oracle](non-ethical/Oracle.md)
+- [Digital Turbine](non-ethical/Digital-Turbine.md)
   
 _For more non-ethical companies, visit the [non-ethical folder](non-ethical/)._
 
