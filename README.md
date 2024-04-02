@@ -34,6 +34,7 @@ _For more non-ethical companies, visit the [non-ethical folder](non-ethical/)._
 Here we celebrate companies that have made significant efforts to operate responsibly and ethically.
 
 - [Replit](ethical/Replit.md)
+- [Signal](ethical/Signal.md)
 - [HubSpot](ethical/HubSpot.md)
 
 _For more ethical companies, visit the [ethical folder](ethical/)._
